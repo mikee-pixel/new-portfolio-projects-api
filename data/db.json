@@ -2,7 +2,7 @@
     "projects": [
         {
             "id": 1,
-            "featuredImage": ["/assets/nederwijnen-hero.png","/assets/neder-wijnen-laptop.jpg","/assets/neder-wijnen-mobile.jpg"],
+            "featuredImage": ["/new-portfolio/assets/nederwijnen-hero.png","/new-portfolio/assets/neder-wijnen-laptop.jpg","/new-portfolio/assets/neder-wijnen-mobile.jpg"],
             "company": "Hilux",
             "websiteName": "Neder Wijnen",
             "url": "https://nederwijnen.nl/",
@@ -12,7 +12,7 @@
         },
         {
             "id": 2,
-            "featuredImage": ["/assets/wijnkoperij-van-paesen-hero.png","/assets/van-paesen-laptop.jpg","/assets/mockup-for-mobile.png"],
+            "featuredImage": ["/new-portfolio/assets/wijnkoperij-van-paesen-hero.png","/new-portfolio/assets/van-paesen-laptop.jpg","/new-portfolio/assets/mockup-for-mobile.png"],
             "company": "Hilux",
             "websiteName": "Van Paesen",
             "url": "https://nieuw.nederwijnen.nl/",
@@ -22,7 +22,7 @@
         },
         {
             "id": 3,
-            "featuredImage": ["/assets/lightspeed-maritime-communication-hero.png","/assets/lightspeed-maritime-communucation-laptop.jpg","/assets/lightspeed-maritime-communication-corporation-mobile.jpg"],
+            "featuredImage": ["/new-portfolio/assets/lightspeed-maritime-communication-hero.png","/new-portfolio/assets/lightspeed-maritime-communucation-laptop.jpg","/new-portfolio/assets/lightspeed-maritime-communication-corporation-mobile.jpg"],
             "company": "Upstream Teches",
             "websiteName": "LightSpeed Maritime Communication Corporation",
             "url": "https://lightspeed-maritime.com/",
@@ -32,7 +32,7 @@
         },
         {
             "id": 4,
-            "featuredImage": ["/assets/terralink-communications-corporation-hero.png","/assets/terralink-communication-corporation-laptop.jpg","/assets/terralink-communication-corporation-mobile.jpg"],
+            "featuredImage": ["/new-portfolio/assets/terralink-communications-corporation-hero.png","/new-portfolio/assets/terralink-communication-corporation-laptop.jpg","/new-portfolio/assets/terralink-communication-corporation-mobile.jpg"],
             "company": "Upstream Teches",
             "websiteName": "Terralink Communication Corporation",
             "url": "https://terralink-communications.com/",
@@ -42,7 +42,7 @@
         },
         {
             "id": 5,
-            "featuredImage": ["/assets/sbt-solutions-corporation-hero.png","/assets/sbt-solutions-corporation-laptop.jpg","/assets/sbt-solutions-corporation-mobile.jpg"],
+            "featuredImage": ["/new-portfolio/assets/sbt-solutions-corporation-hero.png","/new-portfolio/assets/sbt-solutions-corporation-laptop.jpg","/new-portfolio/assets/sbt-solutions-corporation-mobile.jpg"],
             "company": "Upstream Teches",
             "websiteName": "SBT Solutions Corporation",
             "url": "https://sbtsolutionscorp.com/",
@@ -52,7 +52,7 @@
         },
         {
             "id": 6,
-            "featuredImage": ["/assets/triple-k-hero.png","/assets/triple-k-laptop.jpg","/assets/triple-k-mobile.jpg"],
+            "featuredImage": ["/new-portfolio/assets/triple-k-hero.png","/new-portfolio/assets/triple-k-laptop.jpg","/new-portfolio/assets/triple-k-mobile.jpg"],
             "company": "Burk Digital",
             "websiteName": "Triple K",
             "url": "https://triplekconcrete.com/",
@@ -62,7 +62,7 @@
         },
         {
             "id": 7,
-            "featuredImage": ["/assets/BHWeaver-Electric.png","/assets/bh-weaver-electric-laptop.jpg","/assets/bh-weaver-electric-mobile.jpg"],
+            "featuredImage": ["/new-portfolio/assets/BHWeaver-Electric.png","/new-portfolio/assets/bh-weaver-electric-laptop.jpg","/new-portfolio/assets/bh-weaver-electric-mobile.jpg"],
             "company": "Burk Digital",
             "websiteName": "BH Weaver Electric",
             "url": "https://www.bhweaverelectric.com/",
@@ -72,7 +72,7 @@
         },
         {
             "id": 8,
-            "featuredImage": ["/assets/DemoBank-Secure-Banking-Application.png","/assets/banking-online-application-laptop.jpg","/assets/banking-online-application-mobile.jpg"],
+            "featuredImage": ["/new-portfolio/assets/DemoBank-Secure-Banking-Application.png","/new-portfolio/assets/banking-online-application-laptop.jpg","/new-portfolio/assets/banking-online-application-mobile.jpg"],
             "company": "Personal Project",
             "websiteName": "Banking Online Application",
             "url": "https://mikee-pixel.github.io/bank-app/",
@@ -82,7 +82,7 @@
         },
         {
             "id": 9,
-            "featuredImage": ["/assets/goFLUENT-Amazon-Career-Choice.png","/assets/amazon-career-choice-laptop.jpg","/assets/amazon-career-choice-mobile.jpg"],
+            "featuredImage": ["/new-portfolio/assets/goFLUENT-Amazon-Career-Choice.png","/new-portfolio/assets/amazon-career-choice-laptop.jpg","/new-portfolio/assets/amazon-career-choice-mobile.jpg"],
             "company": "goFLUENT",
             "websiteName": "Amazon Career Choice",
             "url": "https://amazon.gofluent.com/",
@@ -92,7 +92,7 @@
         },
         {
             "id": 10,
-            "featuredImage": ["/assets/goFLUENT-Corporate-language.png","/assets/gofluent-corporate-website-laptop.jpg","/assets/gofluent-corporate-website-mobile.jpg"],
+            "featuredImage": ["/new-portfolio/assets/goFLUENT-Corporate-language.png","/new-portfolio/assets/gofluent-corporate-website-laptop.jpg","/new-portfolio/assets/gofluent-corporate-website-mobile.jpg"],
             "company": "goFLUENT",
             "websiteName": "goFluent Corporate Website",
             "url": "https://www.gofluent.com/us-en/",
@@ -102,7 +102,7 @@
         },
         {
             "id": 11,
-            "featuredImage": ["/assets/goFLUENT-Amazon-ESL-Training.png","/assets/amazon-esl-laptop.jpg","/assets/amazon-esl-mobile.jpg"],
+            "featuredImage": ["/new-portfolio/assets/goFLUENT-Amazon-ESL-Training.png","/new-portfolio/assets/amazon-esl-laptop.jpg","/new-portfolio/assets/amazon-esl-mobile.jpg"],
             "company": "goFLUENT",
             "websiteName": "Amazon ESL",
             "url": "https://amazon-esl.gofluent.com/",
@@ -112,7 +112,7 @@
         },
         {
             "id": 12,
-            "featuredImage": ["/assets/Engagement-goFLUENT.png","/assets/gofluent-engagement-website-laptop.jpg","/assets/gofluent-engagement-website-mobile.jpg"],
+            "featuredImage": ["/new-portfolio/assets/Engagement-goFLUENT.png","/new-portfolio/assets/gofluent-engagement-website-laptop.jpg","/new-portfolio/assets/gofluent-engagement-website-mobile.jpg"],
             "company": "goFLUENT",
             "websiteName": "GoFluent Engagement Website",
             "url": "https://engagement.gofluent.com/en/",
@@ -122,7 +122,7 @@
         },
         {
             "id": 13,
-            "featuredImage": ["/assets/SUNCUT-TOP.png","/assets/suncut-website-laptop.jpg","/assets/suncut-website-mobile.jpg"],
+            "featuredImage": ["/new-portfolio/assets/SUNCUT-TOP.png","/new-portfolio/assets/suncut-website-laptop.jpg","/new-portfolio/assets/suncut-website-mobile.jpg"],
             "company": "Datawords Philippines",
             "websiteName": "Suncut Website",
             "url": "https://suncut-uv.com/",
@@ -132,7 +132,7 @@
         },
         {
             "id": 14,
-            "featuredImage": ["/assets/mikee-pixel-github-io-ecommerce.png","/assets/ecommerce-website-laptop.jpg","/assets/ecommerce-website-mobile.jpg"],
+            "featuredImage": ["/new-portfolio/assets/mikee-pixel-github-io-ecommerce.png","/new-portfolio/assets/ecommerce-website-laptop.jpg","/new-portfolio/assets/ecommerce-website-mobile.jpg"],
             "company": "Personal Project",
             "websiteName": "Ecommerce Website",
             "url": "https://mikee-pixel.github.io/ecommerce_wp_v4/",
@@ -142,7 +142,7 @@
         },
         {
             "id": 15,
-            "featuredImage": ["/assets/JILL-STUART-Beauty.png","/assets/jillstuart-website-laptop.jpg","/assets/jillstuart-website-mobile.jpg"],
+            "featuredImage": ["/new-portfolio/assets/JILL-STUART-Beauty.png","/new-portfolio/assets/jillstuart-website-laptop.jpg","/new-portfolio/assets/jillstuart-website-mobile.jpg"],
             "company": "Datawords Philippines",
             "websiteName": "JillStuart Website",
             "url": "https://www.jillstuart-beauty.com/en-jp/",
@@ -152,7 +152,7 @@
         },
         {
             "id": 16,
-            "featuredImage": ["/assets/Rowenta-Electrodomesticos.png","/assets/rowenta-website-laptop.jpg","/assets/rowenta-website-mobile.jpg"],
+            "featuredImage": ["/new-portfolio/assets/Rowenta-Electrodomesticos.png","/new-portfolio/assets/rowenta-website-laptop.jpg","/new-portfolio/assets/rowenta-website-mobile.jpg"],
             "company": "Datawords Philippines",
             "websiteName": "Rowenta Website",
             "url": "https://www.rowenta.es/",
@@ -162,7 +162,7 @@
         },
         {
             "id": 17,
-            "featuredImage": ["/assets/poster-banner-v1.0.3.jpg"],
+            "featuredImage": ["/new-portfolio/assets/poster-banner-v1.0.3.jpg"],
             "company": "Legit Online Virtual Assistance",
             "websiteName": "Poster Banner",
             "url": "",
@@ -172,7 +172,7 @@
         },
         {
             "id": 18,
-            "featuredImage": ["/assets/initial-layout.jpg"],
+            "featuredImage": ["/new-portfolio/assets/initial-layout.jpg"],
             "company": "Samgyup Meats",
             "websiteName": "Poster Banner",
             "url": "",
@@ -182,7 +182,7 @@
         },
         {
             "id": 19,
-            "featuredImage": ["/assets/v1.0.6.jpg"],
+            "featuredImage": ["/new-portfolio/assets/v1.0.6.jpg"],
             "company": "Samgyup Meats",
             "websiteName": "Branding Logo",
             "url": "",
@@ -192,7 +192,7 @@
         },
         {
             "id": 20,
-            "featuredImage": ["/assets/LearnShareEST2021.jpg"],
+            "featuredImage": ["/new-portfolio/assets/LearnShareEST2021.jpg"],
             "company": "Learn Share",
             "websiteName": "Branding Logo",
             "url": "",
@@ -202,7 +202,7 @@
         },
         {
             "id": 21,
-            "featuredImage": ["/assets/wordofpixel.jpg"],
+            "featuredImage": ["/new-portfolio/assets/wordofpixel.jpg"],
             "company": "World of Pixel",
             "websiteName": "Branding Logo",
             "url": "",

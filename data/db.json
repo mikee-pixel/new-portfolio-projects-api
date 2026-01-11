@@ -1,0 +1,177 @@
+[
+  {
+    "id": 1,
+    "featuredImage": [
+      "/new-portfolio/assets/nederwijnen-hero.png",
+      "/new-portfolio/assets/neder-wijnen-laptop.jpg",
+      "/new-portfolio/assets/neder-wijnen-mobile.jpg"
+    ],
+    "company": "Hilux",
+    "websiteName": "Neder Wijnen",
+    "url": "https://nederwijnen.nl/",
+    "description": [
+      "Neder Wijnen is a Dutch wine wholesaler that connects high-quality vineyards with the hospitality and corporate sectors. They focus on delivering a curated selection of premium wines, acting as a trusted partner for businesses that value both quality and personalized service."
+    ],
+    "techStack": [
+      "html",
+      "css",
+      "javascript",
+      "php",
+      "woocommerce",
+      "b2c",
+      "elementor"
+    ],
+    "filterCategory": ["filter-web", "filter-all"]
+  },
+  {
+    "id": 2,
+    "featuredImage": [
+      "/new-portfolio/assets/wijnkoperij-van-paesen-hero.png",
+      "/new-portfolio/assets/van-paesen-laptop.jpg",
+      "/new-portfolio/assets/mockup-for-mobile.png"
+    ],
+    "company": "Hilux",
+    "websiteName": "Van Paesen",
+    "url": "https://nieuw.nederwijnen.nl/",
+    "description": [
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    ],
+    "techStack": [
+      "html",
+      "css",
+      "javascript",
+      "woocommerce",
+      "b2c",
+      "elementor"
+    ],
+    "filterCategory": ["filter-web", "filter-all"]
+  },
+  {
+    "id": 3,
+    "featuredImage": [
+      "/new-portfolio/assets/lightspeed-maritime-communication-hero.png",
+      "/new-portfolio/assets/lightspeed-maritime-communucation-laptop.jpg",
+      "/new-portfolio/assets/lightspeed-maritime-communication-corporation-mobile.jpg"
+    ],
+    "company": "Upstream Teches",
+    "websiteName": "LightSpeed Maritime Communication Corporation",
+    "url": "https://lightspeed-maritime.com/",
+    "description": [
+      "LightSpeed Maritime Communication Corp. is a specialist in the maritime sector, providing the essential high-speed connectivity that keeps vessels and crews linked to the world. They act as a vital lifeline for global trade, requiring a digital presence that matches their reputation for reliability and technical excellence."
+    ],
+    "techStack": ["html", "css", "javascript", "wordpress", "elementor"],
+    "filterCategory": ["filter-web", "filter-all"]
+  },
+  {
+    "id": 4,
+    "featuredImage": [
+      "/new-portfolio/assets/terralink-communications-corporation-hero.png",
+      "/new-portfolio/assets/terralink-communication-corporation-laptop.jpg",
+      "/new-portfolio/assets/terralink-communication-corporation-mobile.jpg"
+    ],
+    "company": "Upstream Teches",
+    "websiteName": "Terralink Communication Corporation",
+    "url": "https://terralink-communications.com/",
+    "description": [
+      "Terralink Communication Corporation is a premier provider of satellite and terrestrial communication solutions, specializing in keeping businesses connected in even the most remote or challenging environments. They serve as a vital link for industries that require high-stakes connectivity, offering everything from satellite internet to complex network integration. For them, a digital presence isn't just about information—it’s about reflecting the reliability and technical excellence they provide to their clients every day."
+    ],
+    "techStack": ["html", "css", "javascript", "wordpress", "elementor"],
+    "filterCategory": ["filter-web", "filter-all"]
+  },
+  {
+    "id": 5,
+    "featuredImage": [
+      "/new-portfolio/assets/sbt-solutions-corporation-hero.png",
+      "/new-portfolio/assets/sbt-solutions-corporation-laptop.jpg",
+      "/new-portfolio/assets/sbt-solutions-corporation-mobile.jpg"
+    ],
+    "company": "Upstream Teches",
+    "websiteName": "SBT Solutions Corporation",
+    "url": "https://sbtsolutionscorp.com/",
+    "description": [
+      "SBT Solutions Corporation is a dedicated technology partner that specializes in providing cutting-edge communication and infrastructure solutions. They focus on helping businesses navigate the complexities of modern technology, offering the expertise needed to integrate advanced tools into various industry workflows. By bridging the gap between innovation and practical application, they empower their clients to stay competitive and achieve their specific business goals."
+    ],
+    "techStack": ["html", "css", "javascript", "wordpress", "elementor"],
+    "filterCategory": ["filter-web", "filter-all"]
+  },
+  {
+    "id": 6,
+    "featuredImage": [
+      "/new-portfolio/assets/triple-k-hero.png",
+      "/new-portfolio/assets/triple-k-laptop.jpg",
+      "/new-portfolio/assets/triple-k-mobile.jpg"
+    ],
+    "company": "Burk Digital",
+    "websiteName": "Triple K",
+    "url": "https://triplekconcrete.com/",
+    "description": [
+      "Triple K Concrete is a family-owned contractor specializing in high-quality concrete solutions for a variety of construction needs. From sturdy foundations to decorative flatwork, they have built a strong reputation for delivering durable craftsmanship and reliable service. They focus on providing a hands-on, professional approach to every job, ensuring that both homeowners and businesses receive results that stand the test of time."
+    ],
+    "techStack": ["html", "css", "javascript", "wordpress", "elementor"],
+    "filterCategory": ["filter-web", "filter-all"]
+  },
+  {
+    "id": 7,
+    "featuredImage": [
+      "/new-portfolio/assets/BHWeaver-Electric.png",
+      "/new-portfolio/assets/bh-weaver-electric-laptop.jpg",
+      "/new-portfolio/assets/bh-weaver-electric-mobile.jpg"
+    ],
+    "company": "Burk Digital",
+    "websiteName": "BH Weaver Electric",
+    "url": "https://www.bhweaverelectric.com/",
+    "description": [
+      "BH Weaver Electric is a trusted electrical contractor known for providing high-quality residential and commercial electrical services. With a focus on safety and precision, they have built a reputation for handling everything from complex installations to routine maintenance with expert craftsmanship. They take pride in their industry qualifications and their commitment to delivering reliable power solutions that meet the specific needs of their local community."
+    ],
+    "techStack": ["brizy", "html", "css"],
+    "filterCategory": ["filter-web", "filter-all"]
+  },
+  {
+    "id": 8,
+    "featuredImage": [
+      "/new-portfolio/assets/DemoBank-Secure-Banking-Application.png",
+      "/new-portfolio/assets/banking-online-application-laptop.jpg",
+      "/new-portfolio/assets/banking-online-application-mobile.jpg"
+    ],
+    "company": "Personal Project",
+    "websiteName": "Banking Online Application",
+    "url": "https://mikee-pixel.github.io/bank-app/",
+    "description": [
+      "Demo Bank is a personal development project designed to simulate the core functionality and user experience of a modern digital banking platform. I deploy this on GitHub to explore the complexities of banking applications, focusing on how data flows between the user interface and the backend logic. The goal was to build a secure-feeling, intuitive environment that mimics the high-stakes world of online finance, allowing me to experiment with both design and advanced logic in a controlled setting."
+    ],
+    "techStack": ["html", "css", "javascript"],
+    "filterCategory": ["filter-web", "filter-all"]
+  },
+  {
+    "id": 9,
+    "featuredImage": [
+      "/new-portfolio/assets/goFLUENT-Amazon-Career-Choice.png",
+      "/new-portfolio/assets/amazon-career-choice-laptop.jpg",
+      "/new-portfolio/assets/amazon-career-choice-mobile.jpg"
+    ],
+    "company": "goFLUENT",
+    "websiteName": "Amazon Career Choice",
+    "url": "https://amazon.gofluent.com/",
+    "description": [
+      "The Amazon Career Choice program is a global initiative that empowers employees through education and skill-building. A major focus is their language learning program, which offers localized training to help participants overcome communication barriers and advance their professional careers based on their specific location."
+    ],
+    "techStack": ["html", "css", "javascript", "wordpress", "divi"],
+    "filterCategory": ["filter-web", "filter-all"]
+  },
+  {
+    "id": 10,
+    "featuredImage": [
+      "/new-portfolio/assets/goFLUENT-Corporate-language.png",
+      "/new-portfolio/assets/gofluent-corporate-website-laptop.jpg",
+      "/new-portfolio/assets/gofluent-corporate-website-mobile.jpg"
+    ],
+    "company": "goFLUENT",
+    "websiteName": "goFluent Corporate Website",
+    "url": "https://www.gofluent.com/us-en/",
+    "description": [
+      "goFLUENT is a global leader in B2B language training, dedicated to providing hyper-personalized solutions that help professionals communicate with confidence. By blending advanced technology with human interaction, they empower organizations to break down language barriers and foster a more inclusive, productive workforce. Headquartered in Switzerland and operating in over 100 countries, goFLUENT serves thousands of international corporations, helping millions of learners gain the language skills necessary for global business success."
+    ],
+    "techStack": ["html", "css", "javascript", "wordpress", "divi"],
+    "filterCategory": ["filter-web", "filter-all"]
+  }
+]
